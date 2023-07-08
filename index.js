@@ -1,5 +1,5 @@
 const myfun = () => {
-    console.log('welcome');
+    console.log('nice');
 }
 
 myfun();
